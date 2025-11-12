@@ -17,7 +17,7 @@ body {
 }
 #portada {
   height: 100vh;
-  background: url("/img/b.jpg");
+  background: url("/1.1DigitalizaciónSoledatMira/img/b.jpg");
   color: rgb(0, 0, 0);
   display: flex;
   flex-direction: column;
